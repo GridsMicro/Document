@@ -12,6 +12,8 @@
 
 [XAMPP](https://www.apachefriends.org/index.html)
 
+[phpMyadmin](https://www.phpmyadmin.net/)
+
 [Bootstrap](https://getbootstrap.com/docs/5.0/examples/cover/#)
 
 [AdminLTE](https://adminlte.io/)
@@ -35,5 +37,15 @@
 [ESP8266 ref](https://www.espressif.com/en/products/socs/esp8266)
 
 [Tinkercad](https://www.tinkercad.com/dashboard?type=circuits&collection=designs)
+
+[Raspberry Pi](https://www.raspberrypi.org/products/)
+
+[Firebase](https://firebase.google.com/)
+
+[MQTT](https://mqtt.org/)
+
+[IFTTT](https://ifttt.com/)
+
+[NETPIE](https://netpie.io/)
 
 [Randomnerdtutorials](https://randomnerdtutorials.com/)
